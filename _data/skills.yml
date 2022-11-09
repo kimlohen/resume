@@ -1,12 +1,20 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: C language
+  description: Used since 2017. I used it to perform tasks in subjects such as 'computer graphics' and 'Linux system application design'.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Java language
+  description: Used since 2018. I used it to carry out projects in the Android studio environment in the 'mobile app development' course.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Python language
+  description: Used since 2020. I used it to solve ML challenges in a Jupiter Notebook environment.
+
+# Golang
+- skill: Go language
+  description: Used since 2021.
+
+# SQL
+- skill: SQL (MySQL, MariaDB)
+  description: Used since 2021. I used it to organize DB servers in 'software engineering' subjects, projects.
