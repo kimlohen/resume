@@ -1,20 +1,23 @@
 # Skills
 # Organizational leadership
-- skill: C language
-  description: Used since 2017. I used it to perform tasks in subjects such as 'computer graphics' and 'Linux system application design'.
+# - skill: C language
+#   description: Used since 2017. I used it to perform tasks in subjects such as 'computer graphics' and 'Linux system application design'.
 
 # Communications strategy
-- skill: Java language
-  description: Used since 2018. I used it to carry out projects in the Android studio environment in the 'mobile app development' course.
+# - skill: Java language
+#   description: Used since 2018. I used it to carry out projects in the Android studio environment in the 'mobile app development' course.
 
 # Digital content development and creation
-- skill: Python language
-  description: Used since 2020. I used it to solve ML challenges in a Jupiter Notebook environment.
+# - skill: Python language
+#   description: Used since 2020. I used it to solve ML challenges in a Jupiter Notebook environment.
 
 # Golang
-- skill: Go language
-  description: Used since 2021.
+# - skill: Go language
+#   description: Used since 2021.
 
 # SQL
-- skill: SQL (MySQL, MariaDB)
-  description: Used since 2021. I used it to organize DB servers in 'software engineering' subjects, projects.
+# - skill: SQL (MySQL, MariaDB)
+#   description: Used since 2021. I used it to organize DB servers in 'software engineering' subjects, projects.
+
+- skill : Image Recognition
+  description: Using libraries such as sklearn, keras, etc., I have done image classification mini-projects such as money classification, accident vehicle classification.

@@ -1,5 +1,5 @@
 # Site settings
-title: "Minsu Kim Resume"
+title: "Minsu Kim's Resume Page"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Minsu Kim"
-resume_title:                   "Student of CAU"
+resume_title:                   "ML Engineer (Junior)"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "qmdlrhdfyd@naver.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "63, Digital-ro, Gwangmyeong-si, Gyeonggi-do, RO
 resume_header_contact_info:     "63, Digital-ro, Gwangmyeong-si, Gyeonggi-do, ROK • 2494-6620 • qmdlrhdfyd@naver.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hello, My name is Minsu Kim. I was born in May 1996. I am studying computer engineering software at Chung-Ang University. I'm trying to be a good developer. </p>"
+resume_header_intro: "<p>Hello, My name is Minsu Kim. I'm trying to be a ML Engineer. So now I am studing ML at KT AIBLE School</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
