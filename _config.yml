@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Minsu Kim"
-resume_title:                   "ML Engineer (Junior)"
+resume_title:                   "Cloud Engineer (Junior)"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "qmdlrhdfyd@naver.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "63, Digital-ro, Gwangmyeong-si, Gyeonggi-do, RO
 resume_header_contact_info:     "63, Digital-ro, Gwangmyeong-si, Gyeonggi-do, ROK • 2494-6620 • qmdlrhdfyd@naver.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hello, My name is Minsu Kim. I'm trying to be a ML Engineer. So now I am studing ML at KT AIBLE School</p>"
+resume_header_intro: "<p>Hello! I'm Minsu Kim. I major Computer Science & Engineering in CAU. And now I'm working as a cloud system engineer at Megazone Cloud. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -46,10 +46,10 @@ resume_section_associations:    true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/kimlohen"
-  resume_twitter_url:           "http://twitter.com/jgloviertwitter.com/kimlohen"
+  resume_twitter_url:           "http://twitter.com/kimlohen"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/민수-김-772698259"
   # resume_instagram_url:         "insert your Instagram URL here"
   # resume_website_url:           "http://joelglovier.com"
   # resume_medium_url:            "https://medium.com/@jglovier"
