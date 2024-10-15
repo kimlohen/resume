@@ -14,3 +14,10 @@
   duration: End of Oct, 2021 &mdash; beginning of Dec, 2021
   # url: "#"
   description: Library material management Application is app that helps you search book, find my book reservation info, and sign up for membership.
+
+- project: Kang-ah-ji-kim (AI Dog skin diagnosis service)
+  role: Android Developer
+  duration: Kang-ah-ji-kim is AI application that can diagonis skin disease by skin image. It use InceptionV3 model and ChatGPT API for diagnosis.
+  description: Jun, 2023 &mdash; July, 2023
+
+
