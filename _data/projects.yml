@@ -17,7 +17,8 @@
 
 - project: Kang-ah-ji-kim (AI Dog skin diagnosis service)
   role: Android Developer
-  duration: Kang-ah-ji-kim is AI application that can diagonis skin disease by skin image. It use InceptionV3 model and ChatGPT API for diagnosis.
-  description: Jun, 2023 &mdash; July, 2023
+  duration: Jun, 2023 &mdash; July, 2023
+  description: Kang-ah-ji-kim is AI application that can diagonis skin disease by skin image. It use InceptionV3 model and ChatGPT API for diagnosis.
+  
 
 
